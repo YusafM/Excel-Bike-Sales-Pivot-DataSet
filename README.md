@@ -51,6 +51,11 @@ This Excel workbook contains bike sales data and pivot summaries for demographic
 |          261698 | 2021-12-02 00:00:00 |     2 | December |   2021 |             31 | Young Adults (25-34) | F                 | Australia      | New South Wales | Bikes              | Mountain Bikes | Mountain-400-W Silver, 42 |                1 |           420 |            769 |        349 |      420 |       769 |
 |          261699 | 2021-12-03 00:00:00 |     3 | December |   2021 |             37 | Adults (35-64)       | F                 | United  States | California      | Bikes              | Mountain Bikes | Mountain-200 Black, 46    |                2 |          1252 |           2295 |       2086 |     2504 |      4590 |
 
+## 📊 Visual Insights
+
+### Screenshot: Sales summary from different countries with options to change gender, age or country
+https://github.com/YusafM/Excel-Bike-Sales-Pivot-DataSet/blob/main/Screenshot%202025-07-08%20110956.png
+
 ## 🛠️ Usage
 You can use this workbook to:
 - Practice pivot table creation
